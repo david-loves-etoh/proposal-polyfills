@@ -1,4 +1,4 @@
-# CoreJS-Related
+# Frequently Used Polyfills
 
 ```
 npm install core-js --save
