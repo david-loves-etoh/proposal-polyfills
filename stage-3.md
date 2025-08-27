@@ -4,4 +4,5 @@ View the list of proposals [here](https://github.com/tc39/proposals/blob/main/RE
 
 ```
 npm install @js-temporal/polyfill
+npm install array-from-async
 ```
